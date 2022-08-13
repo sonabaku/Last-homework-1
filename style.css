@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.homePage{
+
+	background-color: #DFDFDE;
+	padding-bottom: 20px
+}
+
+h4{
+	margin: 0 40px;
+	color: #C21010;
+	padding: 20px;
+
+}
+
+h1{
+	font-size: 36px;
+	width: 450px;
+	display: inline-block;
+	padding: 25px 0 0 50px; 
+}
+
+span{
+	color: #C21010;
+}
+
+
+.companyInfo{
+	display: inline-block;
+	width: 490px;
+	margin-left: 100px;
+}
+
+
+.employees{
+
+margin: 50px 0 0 40px;
+}
+
+.employee img{
+  
+	width: 317px;
+	height: 180px;
+	padding: 8px;
+
+}
+.employee p{
+  width: 225px;
+  text-align: justify;
+  padding: 10px;
+}
+.employee h3{
+ padding-left: 10px;
+}
+
+.employee {
+	display: inline-block;
+	margin: 8px;
+	  background-color: #ffffff;
+	 height: 400px;
+	 width: 333px;
+	
+}
